@@ -1,0 +1,12 @@
+{
+  "name": "Tutorial-Giveaway-Bot",
+  "version": "1.0.0",
+  "description": "🎁Giveways Bot using the [discord-giveaways](https://npmjs.com/discord-giveaways) package!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
