@@ -1,6 +1,6 @@
 {
     "token": "Your discord bot token",
-    "prefix": "g!", #pick any prefix you want!
+    "prefix": "g!",
     "everyoneMention": true,
     "hostedBy": true
 }
